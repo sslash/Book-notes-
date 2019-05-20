@@ -385,7 +385,7 @@ Pro of hiring senior: done it before. Con: old and home to family dude
 Last part Very specific to CEOs
 Very last part how he started vc company
 
-## outliers
+## Outliers
 
 In a small city in us. Inhabits migrated from cicilia or something. Death rate sick high and exclusively from aging. Low crime, respect for elderly, etc. Not due to diet or anything obvious. The society is an outlier, the perfect community, no worries only happiness.
 
