@@ -3,15 +3,16 @@ These are my personal notes. Sorry, they are huge mess at the moment. A mix of N
 
 ## Nudge
 
-Du kan prime folk ved å spørre dem om de har tenkt å gjøre noe, foreks spør dem hva de vil spise til uka, så spiser de sannsynligvis sunnere.
-Folk har høyere sjangse for å gjøre ting hvis de vet andre fjør det. Foreks bruker man mindre strøm hvis man vet at folk flest bruker mindre enn deg i gjennomsnitt
-Flere valg gjør det utrolig mye vanskeligere for folk å ta et valg.
+Du kan prime folk ved å spørre dem om de har tenkt å gjøre noe, foreks spør dem hva de vil spise til uka, så spiser de sannsynligvis sunnere.  
+Folk har høyere sjangse for å gjøre ting hvis de vet andre fjør det. Foreks bruker man mindre strøm hvis man vet at folk flest bruker mindre enn deg i gjennomsnitt  
+Flere valg gjør det utrolig mye vanskeligere for folk å ta et valg.  
 Default valg blir veldig ofte bruk. Ikke default til å ta uetiske valg. Organdonasjon: land med opt-in hadde 10% convertering, mens land med opt-out hadde 90% konvertering
 
 ## Making of a manager
 
-I feedback sessions, be om feedback på spesifikke ting
-Pass på å holde jevnlig kontakt med de du er i prossess med. > 1 uke uten kontakt øker sjansen drastisk for at de decliner
+Run regular one-on-one meetings and always ask for feedback on very specific things.    
+Maintain regular contact with the poeple you want to hire. Failing to update the candidate in the process will drastically lower your chance of hiring.  
+Recruiting is more about forming relationships, good candidates might come back in the future.  
 
 
 ## Benjamin Franklin 
