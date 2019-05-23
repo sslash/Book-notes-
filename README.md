@@ -6,13 +6,20 @@ These are my personal notes. Sorry, they are huge mess at the moment. A mix of N
 Du kan prime folk ved å spørre dem om de har tenkt å gjøre noe, foreks spør dem hva de vil spise til uka, så spiser de sannsynligvis sunnere.  
 Folk har høyere sjangse for å gjøre ting hvis de vet andre fjør det. Foreks bruker man mindre strøm hvis man vet at folk flest bruker mindre enn deg i gjennomsnitt  
 Flere valg gjør det utrolig mye vanskeligere for folk å ta et valg.  
-Default valg blir veldig ofte bruk. Ikke default til å ta uetiske valg. Organdonasjon: land med opt-in hadde 10% convertering, mens land med opt-out hadde 90% konvertering
+Default valg blir veldig ofte bruk. Ikke default til å ta uetiske valg. Organdonasjon: land med opt-in hadde 10% convertering, mens land med opt-out hadde 90% konvertering   
+Save more tomorrow: Charities can increase revenue by letting customers purchase sometime in the near future with yearly increasing contributions    
+Nudge hacks: let users pay a sum to reach a goal. If they reach succeed they get the money back, otherwise its sent to a charity, or even a charity you hate.
 
 ## Making of a manager
 
 Run regular one-on-one meetings and always ask for feedback on very specific things.    
 Maintain regular contact with the poeple you want to hire. Failing to update the candidate in the process will drastically lower your chance of hiring.  
-Recruiting is more about forming relationships, good candidates might come back in the future.  
+Recruiting is more about forming relationships, good candidates might come back in the future.     
+Inkluderer hele teamet ditt i ansettelsen. Spør hvordan ser en drømmekandidat ut    
+Gi alltid eierskap til en utvalgt person, ellers antar folk at noen andre vil ta jobben    
+Metrics er viktig men unngå å miste forhold til north star. Hold teamet alignet rundt the end goal (eks team fokuserer for mye på antall customer support saker og glemmer at målet er å lage en tjeneste som gir bedre kundeverdi)    
+
+
 
 
 ## Benjamin Franklin 
