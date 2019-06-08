@@ -1,6 +1,24 @@
 # Book notes 📖
 These are my personal notes. Sorry, they are huge mess at the moment. A mix of Norwegian and English combined with noisy rambling. TODO: clean this up.
 
+## Contagious
+Give users a free copy to give away. Likely they will give it to a friend that needs the product.    
+Studie viste at å dele meninger om seg selv trigget samme hjerne krets som rewarder som mat og penger    
+3 måter å få folk til å snakke om produktet ditt: inner remarkability, game mechanics, make ppl feel like insiders    
+Folk har større betalingsvilje for limited offers.    
+Flyselskap viser ofte at du har x reiser igjen før du når platinum medlemskap, for det får medlemmer til å handle ekstra turer kun for å få medlemskapet. Samme gjelder for bonuskort og andre buy x amount, Get last one free.  
+Gode ass eller produkter har triggers/reminders som indirekte får deg til å tenke på produktet.   
+Hva slags bygninger et valg gjøres i kan påvirke valget ditt. Foreks i en skole-> mer penger til skole  
+Lag produkt referanser som skaper triggere. KIT KAT and coffee økte salg med 1/3.  
+Ting som trigger følelsen «Awe» deles oftest  
+Awe=sinne eller lykke, sterke følelser(ikke sadness)  
+Apple snudde logoen slik at den synes for de som ser deg med laptop (public)  
+Reduserte binge drikking på campus ved å promotere at folk flest binger ikke  
+Eksempler på smart branding som utnytter social proof: Pringles, Apple (hvite AirPods), ralph L   
+Lag produkter som markedsfører seg selv  
+Salg har ekstremt stor påvirkning på salg. Typisk 50% forskjell.  
+Bygg en trojansk hest, en historie rundt ditt produkt som får folk til å snakke om produktet.  Eks the subway diet; fyren som gikk ned 100kg ved å spise footlongs  
+
 ## Nudge
 
 Du kan prime folk ved å spørre dem om de har tenkt å gjøre noe, foreks spør dem hva de vil spise til uka, så spiser de sannsynligvis sunnere.  
