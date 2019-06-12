@@ -1,6 +1,54 @@
 # Book notes 📖
 These are my personal notes. Sorry, they are huge mess at the moment. A mix of Norwegian and English combined with noisy rambling. TODO: clean this up.
 
+### Everybody lies
+People rarely fill out surveys honestly, which skews our understanding of the world. But with the rise of big data – that is, the collection of incredibly large amounts of data from, for example, Google searches – we are able to spot patterns in human behavior and identify preferences that we never knew about before. 
+
+Actionable advice: Don’t fret if you have kinky sexual fantasies. 
+You’re not alone! Although you probably won’t get everyone to admit to their fetishes, this may be just because some individuals worry they’ll be socially excluded.
+So, if you dare, speak up about your true preferences! You’re likely to get some weird looks, but as big data reveals, there’s almost certainly someone out there like you. Instead of hiding it, you can make all the kinky and strange stuff you normally type into Google a topic of conversation. Maybe then you can start normalizing some of the unspoken aspects of human behavior.
+
+### Creativity Inc
+change, and the the uncertainty and instability that accompanypany it, is as inevitable as it is necessary for create environments. A company culture can only be truly creative when focus is played on forging a functioning team, building trust and fostering an imaginative environment. 
+
+Don’t make your plans too rigid.
+
+If your plan is set in stone, then you won’t have any wiggle room to adjust in case things don’t go as predicted. 
+
+Vary your work station.
+
+its easy to become uninterested and bored if your workspace is dull and uninviting, so avoid this by personalising it.  
+### Originals
+Unleash your creative potential by developing lots of ideas and sharing your best ones with others. To further boost your creativity, surround yourself with disruptive thinkers and make them feel comfortable about sharing their opinions. Learn to make your original idea seem familiar, accessible and appealing to get the support you need, and you’ll be ready to turn your unique plans into real-world solutions. 
+
+
+### Influence
+In many situations, we humans like to avoid thinking about how we should react by using predictable shortcuts to guide our decisions. Compliance professionals like advertisers, con artists and salespeople take advantage of these preprogrammed human reactions to elicit the response that’s in their best interests, not ours. Specifically, they leverage the principles of reciprocation, scarcity, consistency, social proof, liking and authority. Since we cannot stop using these shortcuts that mostly serve us well, we must instead learn to defend ourselves against the manipulators who abuse them.
+
+### The Telemores effect
+A singular cellular structure has profound effects on aging. It’s called a telomere and the shorter it gets, the older we feel. By attending to the health of our telomeres through changes in diet and lifestyle, it’s possible to look and feel both younger and healthier.
+
+actionable advice: set an aging goal and pick an aging role model.
+Take a moment to imagine a future in which you enjoy telomeres that enable you to live a longer and healthier life as you cross into your 60s and 70s. Then, plan how you’ll spend your days at this ripe age. Consider what exercise you’ll do, what social activities you’ll partake in, where you’ll travel and what books you’ll read.
+Take a moment to imagine a future in which you enjoy telomeres that enable you to live a longer and healthier life as you cross into your 60s and 70s. Then, plan how you’ll spend your days at this ripe age. Consider what exercise you’ll do, what social activities you’ll partake in, where you’ll travel and what books you’ll read.
+Finally, find an older role model who fits the image of vitality you want to attain at their age. It might be Judi Dench, Supreme Court Justice Anthony Kennedy, or even your own grandfather.
+### Pre-suasion
+Pre-suasion is the art of priming someone to do something by executing certain directive actions, or uttering certain directive sentences, before,  the actual moment when that person has to make a decision. This is pre-suasion: setting the stage and putting the pieces into place, thus getting people to say, or do, what you want. 
+Actionable advice: Invite consumers to give advice instead of an opinion. Many companies try to bond with their customers by asking for their opinion. But this is an introspective act, one that ultimately directs their attention toward their own needs.
+
+### The 4-hour workweek
+Instead of living the nine-to-five life of a desk slave, join the New Rich, create an automated income and enjoy a full life here and now.
+actionable advice: Stop checking your emails in the morning and get your important tasks done by lunch.
+If you’re like most people, you probably check your emails first thing in the morning. This is a mistake, because your mornings should be dedicated to the highest-priority tasks you have for the day, and checking your inbox will only slow you down. Ideally, you’ll have all your crucial tasks done by lunch, and the rest of the day will be just gravy.
+Finding out where you really want to be in life requires patience, hard work and planning, but anyone can do it with the right dedication. Filled with many personal anecdotes from a 12-year span of job-hopping, 
+
+### Be more pirate
+There are a great many lessons we can learn from the Golden Age pirates who stood up to the exploitative, war-mongering establishment at the turn of the eighteenth century. In fact, so many of their methods and principles were ahead of their time that they’re still relevant today. By taking their lead, you can become a powerful agent of change and social justice. It all starts by finding your cause, rewriting the broken rules, empowering your crew and taking your message straight into the lion’s den.
+
+Actionable advice:
+Ask yourself the right questions.
+Each step of the way to adopting the pirate mind-set, there are questions you can ask yourself. For example, when finding your cause, ask, “If I could break any rule, what would it be, and how would I rewrite it?” And, “Who out there would I most like to take down?” While bringing together your crew, plotting your mutiny and writing your pirate code, ask, “What, values or ideals am I willing to put my neck on the line for? What principles do I care about so much that I’d actually fight for them?”
+
 ## Contagious
 Give users a free copy to give away. Likely they will give it to a friend that needs the product.    
 Studie viste at å dele meninger om seg selv trigget samme hjerne krets som rewarder som mat og penger    
